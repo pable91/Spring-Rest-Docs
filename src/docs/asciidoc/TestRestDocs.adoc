@@ -1,0 +1,9 @@
+= TestRestDocs API 문서
+
+== TestApi
+
+//=== Request
+//include::{snippets}/rest docs test/http-request.adoc
+
+=== Response
+include::{snippets}/rest docs test/http-response.adoc[]
